@@ -1,2 +1,21 @@
-# simple-file-upload
-This is a Django framework web application that uploads file such as documents, videos, songs, pictures locally. This is done by the admin after login into the system.
+# Simple File Upload Example
+
+Example used in the blog post [How to Upload Files With Django](https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html)
+
+## Running Locally
+
+```bash
+
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python manage.py migrate
+```
+
+```bash
+python manage.py runserver
+```
